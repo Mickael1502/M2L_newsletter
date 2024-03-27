@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">M2L</string>
+    <string name="username_hint">Email</string>
+    <string name="password_hint">Mot de passe</string>
+    <string name="login_button_text">Se connecter</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="register">S\'inscrire</string>
+</resources>
